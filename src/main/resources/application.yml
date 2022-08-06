@@ -1,0 +1,5 @@
+server:
+  port: 8888
+elasticsearch:
+  host: localhost
+  port: 9200
